@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">هوك الاسهم .</string>
+
+
+    <string name="add_stocks">اضافة اسهم.</string>
+
+
+    <string name="dialog_title">اضف سهم.</string>
+    <string name="dialog_hint">رمز (مثال..GOOG).</string>
+    <string name="dialog_cancel">الغاء.</string>
+    <string name="dialog_add">اضف.</string>
+
+    <string name="error_no_network"> لست متصل بل الانترنت سيتم تحميل البيانات مباشرة بعد تاكد اتصالك بالانترنت.</string>
+    <string name="error_no_stocks">لا يوجد اسهم , اضغظ على الزر بالاسفل ل اضافة سهم.</string>
+    <string name="error_invalid_stocks">خطا تاكد من صحة الرمز.</string>
+    <string name="toast_stock_added_no_connectivity">تم اضافة الرمز s% سيتم التحديث بعد الاتصال بل الانترنت.</string>
+    <string name="toast_no_connectivity">سيتم التحديث عند الاتصال بل الانترنت.</string>
+
+    <string name="error">رسالة خظا.</string>
+    <string name="stock_graph">رسم توضيحى لسعر السهم.</string>
+    <string name="stocks_list">قائمة الاسهم.</string>
+</resources>
